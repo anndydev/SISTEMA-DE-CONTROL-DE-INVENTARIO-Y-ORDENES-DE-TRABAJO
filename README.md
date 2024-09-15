@@ -15,7 +15,7 @@ Mantenimiento INCO es una aplicación de software diseñada desde cero para la g
 ### 1. INCO DISEÑO FINAL
 ![VECTOR](./imagenes/logo.png)
 
-### 2. Reportes final en PDF con Jasper Reports
+### 2. Reportes profesionales en PDF con Jasper Reports
 ![Reporte Jasper](./imagenes/reporte_jasper.jpeg)
 
 ### 3. Formulario de Orden de Trabajo
