@@ -14,13 +14,13 @@ Mantenimiento INCO es una aplicación de software diseñada para la gestión de 
 ## Software Final 
 
 ### 1. Reportes con Jasper Reports
-![Reporte Jasper](./imagenes/reporte_jasper.jpg)
+![Reporte Jasper](./imagenes/reporte_jasper.jpeg)
 
 ### 2. Formulario de Orden de Trabajo
-![Formulario Orden de Trabajo](./imagenes/formulario_orden.jpg)
+![Formulario Orden de Trabajo](./imagenes/formulario_orden.png)
 
 ### 3. Panel de Control
-![Panel de Control](./imagenes/dashboard.jpg)
+![Panel de Control](./imagenes/dashboard.png)
 
 ## Tecnologías Utilizadas
 - **Java:** Lenguaje principal para la aplicación.
