@@ -13,7 +13,7 @@ Mantenimiento INCO es una aplicación de software diseñada desde cero para la g
 - **Gestion de inventario:** Formularios de busqueda y alojamiento de todos los items de bodega para añadir,editar y borrar dicho objeto solicitado por el obrero.
 ## Software Final 
 ### 1. INCO DISEÑO FINAL
-![VECTOR](./imagenes/logo.jpeg)
+![VECTOR](./imagenes/logo.png)
 
 ### 2. Reportes final en PDF con Jasper Reports
 ![Reporte Jasper](./imagenes/reporte_jasper.jpeg)
